@@ -1,0 +1,24 @@
+# source data
+# people, profession and participate
+name_basics.tsv
+# movie
+title_basics.tsv
+# rate
+title_ratings.tsv
+
+# medium data
+# people, profession and participate
+name_basics.csv
+# movie
+title_basics.csv
+# rate
+title_ratings.csv
+
+# output data
+user.csv
+people.csv
+people_profession.csv
+video.csv
+participate.csv
+rate_video.csv
+rate_people.csv
